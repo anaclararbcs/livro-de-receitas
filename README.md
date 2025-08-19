@@ -5,7 +5,7 @@ Este repositório contém um livro de receitas colaborativo criado para aprender
 ## Sumário
 - [morango do amor](receitas/morango-do-amor.md)
 - [buchada](receitas/buchada.md)
-
+- [Brownie](receitas/brownie.md)
 
 ## morango do amor
 - Ingredientes
@@ -71,4 +71,20 @@ Feche a panela de pressão e aumente o fogo para alto;
 Quando pegar pressão, reduza para fogo médio-baixo e cozinhe o rúmen por 1 hora;
 Desligue o fogo e deixe a pressão sair naturalmente;
 Abra a panela, descarte os talos de salsinha, finalize com salsinha picada a gosto e sirva.
+
+# Brownie
+
+## Ingredientes
+- 200g de chocolate amargo
+- 150g de manteiga
+- 200g de açúcar
+- 3 ovos
+- 100g de farinha de trigo
+
+## Modo de Preparo
+1. Derreta o chocolate e a manteiga em banho-maria.
+2. Misture os ovos e o açúcar até ficar homogêneo.
+3. Adicione a farinha e misture bem.
+4. Asse a mistura em forno preaquecido a 180°C por 25 minutos.
+
  
