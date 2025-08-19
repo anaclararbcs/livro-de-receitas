@@ -3,7 +3,7 @@
 Este repositório contém um livro de receitas colaborativo criado para aprender Git e Markdown.
 
 ## Sumário
-- [morango do amor](receitas/morango do amor.md)
+- [morango do amor](receitas/morango-do-amor.md)
 - [Bolo de Cenoura](receitas/bolo-de-cenoura.md)
 
 - morango do amor
