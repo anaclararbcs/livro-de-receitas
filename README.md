@@ -6,7 +6,8 @@ Este repositório contém um livro de receitas colaborativo criado para aprender
 - [morango do amor](receitas/morango-do-amor.md)
 - [Bolo de Cenoura](receitas/bolo-de-cenoura.md)
 
-- morango do amor
+
+## morango do amor
 - Ingredientes
 - Brigadeiro
 - 1 lata de Leite Condensado 
