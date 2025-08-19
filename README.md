@@ -13,3 +13,10 @@
 - 1 xícara (chá) e meia de água
 - 2 colheres (sopa) de vinagre
 - 10 gotas de corante alimentício em gel vermelho
+# Livro de Receitas
+
+Este repositório contém um livro de receitas colaborativo criado para aprender Git e Markdown.
+
+## Sumário
+- [Brownie](receitas/brownie.md)
+- [Bolo de Cenoura](receitas/bolo-de-cenoura.md)
