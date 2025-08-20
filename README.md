@@ -6,6 +6,9 @@ Este repositório contém um livro de receitas colaborativo criado para aprender
 - [morango do amor](receitas/morango-do-amor.md)
 - [buchada](receitas/buchada.md)
 - [Brownie](receitas/brownie.md)
+- [bolo de cenoura com cobertura de chocolate](receitas/bolo-de-cenoura-com-cobertura-de-chocolate.md)
+- [macarronada](receitas/macarronada.md)
+- [lasanha](receitas/lasanha.md)
 
 # Morango do Amor
 
@@ -78,4 +81,75 @@ Este repositório contém um livro de receitas colaborativo criado para aprender
 3. Adicione a farinha e misture bem.
 4. Asse a mistura em forno preaquecido a 180°C por 25 minutos.
 
- 
+# Bolo de cenoura com cobertura de chocolate
+
+## Ingredientes
+### Massa
+- 1/2 xícara (chá) de óleo
+- 3 cenouras médias raladas
+- 4 ovos
+- 2 xícaras (chá) de açúcar
+- farinha de trigo
+- 2 e 1/2 xícaras (chá) de farinha de trigo
+- 1 colher (sopa) de fermento em pó
+
+### Cobertura
+- 1 colher (sopa) de manteiga
+- 1 xícara (chá) de açúcar
+- 3 colheres (sopa) de chocolate em pó
+- 1 xícara (chá) de leite
+
+## Modo de preparo
+### Massa
+1. Em um liquidificador, adicione a cenoura, os ovos e o óleo, depois misture.
+2. Acrescente o açúcar e bata novamente por 5 minutos.
+3. Em uma tigela ou na batedeira, adicione a farinha de trigo e depois misture novamente.
+4. Acrescente o fermento e misture lentamente com uma colher.
+5. Asse em um forno preaquecido a 180° C por aproximadamente 40 minutos.
+
+### Cobertura
+1. Despeje em uma tigela a manteiga, o chocolate em pó, o açúcar e o leite, depois misture.
+2. Leve a mistura ao fogo e continue misturando até obter uma consistência cremosa, depois despeje a calda por cima do bolo.
+
+# Macarronada
+
+## Ingredientes
+- carne moída a gosto
+- 1 lata de milho verde
+- 1 lata de creme de leite
+- macarrão refogado na manteiga a gosto
+- 1 lata de ervilha
+- 1 lata de molho de tomate
+
+## Modo de preparo: 30 min
+1. Em uma panela, leve a carne moída temperada ao fogo e adicione o milho verde e a ervilha.
+2. Misture tudo e deixe cozinhar por 30 minutos.
+3. Desligue o fogo e acrescente o creme de leite e o molho de tomate.
+4. Incorpore o macarrão refogado na manteiga e misture bem.
+
+# Lasanha
+## Ingredientes
+- 500 g de carne moída
+- 1 cebola pequena picada
+- Azeite para refogar
+- 2 cubos de caldo de carne
+- 250 g de presunto fatiado
+- 250 g de mussarela fatiada
+- Orégano a gosto
+- 1 lata de extrato de tomate de 340 g
+- 1 pacote de lasanha pré cozida de 200 g
+- Queijo ralado para polvilhar
+
+## Modo de preparo: 50 min
+1. Aqueça o azeite e refogue a cebola e o alho.
+2. Acrescente a carne moída, 1 xícara de água e deixe até cozinhar.
+3. Coloque o extrato de tomate,orégano e aproximadamente 1 e 1/2 litros de água.
+4. Deixe uns 10 minutos e desligue, acrescente salsinha e cebolinha.
+5. O molho deve ficar bem líquido.
+6. Forre o fundo de um refratário com um pouco do molho.
+7. Alterne camadas de massa de lasanha, molho, fatias de presunto, fatias de mussarela.
+8. A última camada deverá ser de mussarela.
+9. Polvilhe queijo ralado.
+10. Leve ao forno e deixe até derreter a mussarela.
+
+
