@@ -3,10 +3,10 @@
 Este repositório contém um livro de receitas colaborativo criado para aprender Git e Markdown.
 
 ## Sumário
-- [morango do amor](receitas/morango-do-amor.md)
+- [morango do amor](receitas/morangodoamor.md)
 - [buchada](receitas/buchada.md)
 - [Brownie](receitas/brownie.md)
-- [bolo de cenoura com cobertura de chocolate](receitas/bolo-de-cenoura-com-cobertura-de-chocolate.md)
+- [bolo de cenoura com cobertura de chocolate](receitas/bolo.md)
 - [macarronada](receitas/macarronada.md)
 - [lasanha](receitas/lasanha.md)
 
